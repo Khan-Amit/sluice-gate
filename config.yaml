@@ -1,0 +1,5 @@
+mode: offline
+source_format: crypto
+target_format: bank_swift
+fallback_channel: tor
+log_level: minimal
