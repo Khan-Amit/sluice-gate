@@ -32,4 +32,12 @@ Thumbs.db
 
 # Nak specific (optional)
 temp_*/
-exports/
+exports/__pycache__/
+*.pyc
+config.local.yaml
+secrets/
+logs/
+*.key
+*.pem
+.env
+
